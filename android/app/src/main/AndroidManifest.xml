@@ -2,7 +2,7 @@
     package="com.prashant.prashant"
     xmlns:tools="http://schemas.android.com/tools">
    <application
-        android:label="GharBasie"
+        android:label="Demo"
         tools:replace="android:label"
         android:icon="@mipmap/ic_launcher">
         <activity
