@@ -5,7 +5,7 @@ import 'package:prashant/Home.dart';
 
 khaltiScreen(BuildContext context){
   FlutterKhalti _flutterKhalti=FlutterKhalti.configure(
-    publicKey: "test_public_key_9b6f64a2cf44469298885231c38223fc", 
+    publicKey: "test_public_key", 
     urlSchemeIOS: "Integrating Khalti");
     KhaltiProduct product=KhaltiProduct(
       id: "Integrating Khalti to my flutter app",
