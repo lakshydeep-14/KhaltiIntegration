@@ -1,16 +1,7 @@
-# prashant
+# Khalti In Flutter
 
-A new Flutter project.
+A demo how to integrate khalti(Nepal digital wallet) in flutter prject.
 
-## Getting Started
+[Medium Article](https://lakshydeep-14.medium.com/integrate-khalti-in-flutter-e67e6715146c)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![DEMO](https://miro.medium.com/max/625/1*ivm4GVQjqZ60SxV4prhiNQ.gif)
